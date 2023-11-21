@@ -1,11 +1,4 @@
-/*
- * @Author: zrDeng
- * @Date: 2023-08-29 16:06:21
- * @LastEditTime: 2023-08-29 16:12:17
- * @LastEditors: zrDeng
- * @Description: 
- * @FilePath: \项目\threads\components\forms\Comment.tsx
- */
+
 "use client";
 
 import { z } from "zod";
