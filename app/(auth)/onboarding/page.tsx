@@ -3,6 +3,7 @@ import { currentUser } from "@clerk/nextjs";
 import { fetchUser } from "@/lib/actions/user.actions";
 import AccountProfile from "@/components/forms/AccountProfile";
 
+
 async function Page() {
   const user = await currentUser();
   if (!user) return null; // to avoid typescript warnings

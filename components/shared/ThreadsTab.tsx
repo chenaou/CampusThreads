@@ -1,11 +1,4 @@
-/*
- * @Author: zrDeng
- * @Date: 2023-08-30 09:24:30
- * @LastEditTime: 2023-08-30 09:27:40
- * @LastEditors: zrDeng
- * @Description: 
- * @FilePath: \项目\threads\components\shared\ThreadsTab.tsx
- */
+
 import { redirect } from "next/navigation";
 
 import { fetchCommunityPosts } from "@/lib/actions/community.actions";

@@ -1,11 +1,3 @@
-/*
- * @Author: zrDeng
- * @Date: 2023-08-27 11:42:23
- * @LastEditTime: 2023-08-31 22:22:42
- * @LastEditors: zrDeng
- * @Description: 
- * @FilePath: \项目\threads\components\shared\RightSidebar.tsx
- */
 import { currentUser } from "@clerk/nextjs";
 
 import UserCard from "../cards/UserCard";
