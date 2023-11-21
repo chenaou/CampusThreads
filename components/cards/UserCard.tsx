@@ -1,11 +1,3 @@
-/*
- * @Author: zrDeng
- * @Date: 2023-08-30 10:36:38
- * @LastEditTime: 2023-08-30 10:41:35
- * @LastEditors: zrDeng
- * @Description: 
- * @FilePath: \项目\threads\components\cards\UserCard.tsx
- */
 "use client";
 
 import Image from "next/image";

@@ -1,11 +1,3 @@
-/*
- * @Author: zrDeng
- * @Date: 2023-08-27 22:12:45
- * @LastEditTime: 2023-08-27 23:01:22
- * @LastEditors: zrDeng
- * @Description: 
- * @FilePath: \threads\lib\utils.ts
- */
 import { type ClassValue, clsx } from "clsx";
 import { twMerge } from "tailwind-merge";
 
