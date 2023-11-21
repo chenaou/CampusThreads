@@ -1,4 +1,11 @@
-
+/*
+ * @Author: zrDeng
+ * @Date: 2023-08-27 10:27:42
+ * @LastEditTime: 2023-08-27 10:34:24
+ * @LastEditors: zrDeng
+ * @Description:
+ * @FilePath: \threads\middleware.ts
+ */
 import { authMiddleware } from "@clerk/nextjs";
 
 // This example protects all routes including api/trpc routes
