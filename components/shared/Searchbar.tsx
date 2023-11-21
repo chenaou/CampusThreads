@@ -1,11 +1,4 @@
-/*
- * @Author: zrDeng
- * @Date: 2023-08-30 21:42:38
- * @LastEditTime: 2023-08-30 21:46:14
- * @LastEditors: zrDeng
- * @Description: 
- * @FilePath: \项目\threads\components\shared\Searchbar.tsx
- */
+
 "use client";
 
 import Image from "next/image";
