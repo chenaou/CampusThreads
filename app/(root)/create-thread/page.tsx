@@ -1,11 +1,4 @@
-/*
- * @Author: zrDeng
- * @Date: 2023-08-29 14:08:27
- * @LastEditTime: 2023-08-29 14:30:29
- * @LastEditors: zrDeng
- * @Description:
- * @FilePath: \项目\threads\app\(root)\create-thread\page.tsx
- */
+
 import PostThread from "@/components/forms/PostThread";
 import { fetchUser } from "@/lib/actions/user.actions";
 import { currentUser } from "@clerk/nextjs";
