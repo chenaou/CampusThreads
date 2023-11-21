@@ -1,4 +1,11 @@
-
+/*
+ * @Author: zrDeng
+ * @Date: 2023-08-27 23:04:58
+ * @LastEditTime: 2023-08-29 13:57:42
+ * @LastEditors: zrDeng
+ * @Description: 
+ * @FilePath: \项目\threads\app\api\uploadthing\core.ts
+ */
 import { currentUser } from "@clerk/nextjs";
 import { createUploadthing, type FileRouter } from "uploadthing/next";
 
